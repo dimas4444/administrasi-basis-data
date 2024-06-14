@@ -1,5 +1,5 @@
--- Nama: M.Tri Zumratul Putra
--- NIM : 22241002
+-- Nama: Dimas
+-- NIM : 22241030
 -- MODUL 2
 
 -- NILAI LITERAL
